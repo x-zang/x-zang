@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🧬 I am 
+- PhD candidate in Bioinformatics at Penn State.
+- Expected to graduate in May 2025.
+- Looking for a position in bioinformatics and/or computer science area. 
+
+### 💻 I work on
+Algorithms and methodologies for 
+- Sequence analysis 
+- Transcriptome annotation and assembly
+- Alternative splicing analysis
+
+### Socials
+[Google Scholar](https://scholar.google.com/citations?user=tZhzac0AAAAJ)
+
+[Personal Web](https://x-zang.github.io/)
