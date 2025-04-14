@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ### 🧬 I am 
 - PhD candidate in Bioinformatics at Penn State.
-- Expected to graduate in May 2025.
-- Looking for a position in bioinformatics and/or computer science area. 
 
 ### 💻 I research on
 Algorithms and methodologies for 
