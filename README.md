@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🧬 I am 
-- PhD candidate in Bioinformatics at Penn State.
+- PhD in Bioinformatics at Penn State.
 
 ### 💻 I research on
 Algorithms and methodologies for 
