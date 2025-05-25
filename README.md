@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi, I'm Carl 🧐 🧬 💻
 
 <!--
 **x-zang/x-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🧬 I am 
-- PhD in Bioinformatics at Penn State.
-
-### 💻 I research on
-Algorithms and methodologies for 
-- Sequence analysis 
-- Transcriptome annotation and assembly
-- Alternative splicing analysis
-
-### Socials
-[Google Scholar](https://scholar.google.com/citations?user=tZhzac0AAAAJ)
-
-[Personal Web](https://x-zang.github.io/)
+I'm a PhD graduate in Bioinformatics from Penn State. 
+I develop algorithms and computational methodologies for RNA-Seq analysis, transcriptome assembly and annotation, and alternative splicing analysis. You can find more about my work on [Google Scholar](https://scholar.google.com/citations?user=tZhzac0AAAAJ) or [my personal website](https://x-zang.github.io/).
