@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a PhD graduate in Bioinformatics from Penn State. 
-I develop algorithms and computational methodologies for RNA-Seq analysis, transcriptome assembly and annotation, and alternative splicing analysis. You can find more about my work on [Google Scholar](https://scholar.google.com/citations?user=tZhzac0AAAAJ) or [my personal website](https://x-zang.github.io/).
+I develop algorithms and computational methodologies for RNA-Seq analysis, transcriptome assembly and annotation, and alternative splicing analysis.  
+You can find more about me on [Google Scholar](https://scholar.google.com/citations?user=tZhzac0AAAAJ) or [my personal website](https://x-zang.github.io/).
